@@ -1,0 +1,4 @@
+baseURL = 'http://oldbridgewallcoverings.com/'
+languageCode = 'en-us'
+title = 'Old Bridge Wall Coverings'
+theme = "ananke"
