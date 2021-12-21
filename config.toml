@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Old Bridge Wall Coverings'
 theme = "ananke"
 publishDir = "docs"
+[params]
+  site_logo = "images/old-bridge-logo.jpeg"
